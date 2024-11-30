@@ -5,10 +5,10 @@
 	"main": "dist/main/index.cjs",
 	"type": "module",
 	"author": {
-		"name": "Cassidy Williams",
-		"email": "hi@cassidoo.co",
-		"url": "https://cassidoo.co"
-	},
+		"name": "Vignesh B",
+		"email": "DO you need mine?",
+		"url": "Waste"
+	}
 	"homepage": ".",
 	"build": {
 		"appId": "com.electron.todometer",
