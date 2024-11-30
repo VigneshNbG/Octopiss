@@ -1,6 +1,6 @@
 # todometer
 
-![todometer](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
 
 ## Download
 
