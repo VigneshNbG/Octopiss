@@ -2,11 +2,11 @@
 
 ![Trash photo i found](assets/screenshot.png)
 
-## Download
+## Stolen links
 
-Nab the latest version from the [Releases](https://github.com/cassidoo/todometer/releases) page!
+i did't make this file but somebody did all rights give to this hard working person[Stolen files](https://github.com/cassidoo/todometer/releases) Stolen page!
 
-## Development
+## Donwload steps
 
 - Clone the repo:
 
