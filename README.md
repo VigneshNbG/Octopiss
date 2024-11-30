@@ -11,13 +11,13 @@ Nab the latest version from the [Releases](https://github.com/cassidoo/todometer
 - Clone the repo:
 
 ```bash
-$ git clone https://github.com/cassidoo/todometer.git
+$ git clone https://github.com/VigneshNbG/Octopiss.git
 ```
 
 - Go to the project directory and install dependencies:
 
 ```bash
-$ cd Octopuss && npm install
+$ cd Octopiss && npm install
 ```
 
 To show the Electron application window with your current build:
