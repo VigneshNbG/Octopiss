@@ -3,25 +3,15 @@
 ![Trash photo i found](assets/screenshot.png)
  
 # Madem ki istiyorsun öyleyse durma git
-
 # Beni düşünme rahat ol yalnız kalabilirim
-
 # Sen de bilirsin hiçbir acı sonsuza dek sürmez
-
 # Hatta her an yeniden sevebilirim
-
 # Olmazdı ben de biliyorum haklısın haydi git
-
 # Korkma seninle gerçekten dost olabilirim
-
 # Aslında ben de uzun zamandan beridir sana
-
 # Ayrılmak istediğimi söylemedim haydi git
-
-#  Git... Git...
-
+#  Git... Git..
 # Git... me dur ne olursun
-
 # Gitme kal yalan söyledim
 # Doğru değil ayrılığa daha hiç hazır değilim
 # Aramızda yaşanacak yarım kalan bir şeyler var
