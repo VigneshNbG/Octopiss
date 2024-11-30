@@ -1,6 +1,11 @@
 # Trash photo 
 
 ![Trash photo i found](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
+![Trash photo i found](assets/screenshot.png)
 
 ## Stolen links
 
