@@ -32,4 +32,4 @@ $ npm install
 $ npm run postinstall
 $ npm run pre-electron-pack
 $ npm run electron-pack
-`
+
