@@ -12,4 +12,4 @@
 
 # amazing video is going to play
 
-![](assets/keerthana%20-%20Copy.mp4)
+![video](assets/keerthana%20-%20Copy.mp4)
