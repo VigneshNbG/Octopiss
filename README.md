@@ -1,3 +1,3 @@
 # amazing photo
 
-![Trash photo i found](assets/screenshot.png)
+![photo of the thing](assets/screenshot.png)
