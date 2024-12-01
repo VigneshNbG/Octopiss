@@ -6,12 +6,14 @@
 	"type": "module",
 	"author": {
 		"name": "Vignesh B",
+		"email": "DO you need mine?",
+		"url": "Waste"
 	}
 	"homepage": ".",
 	"build": {
 		"appId": "com.electron.todometer",
 		"productName": "todometer",
-		"copyright": "Nothing",
+		"copyright": "Copyright © 2023 @cassidoo",
 		"mac": {
 			"category": "public.app-category.utilities",
 			"icon": "assets/mac/icon.png.icns"
